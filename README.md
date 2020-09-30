@@ -6,7 +6,7 @@ I'm currently:
 - Learning web development 🎨
 - Learning JavaScript 💛
 - Studying [Technology in Systems Analysis and Development on UDESC (1/6)](https://www.udesc.br/cct/tads) 👨‍🎓
-- Looking for my first job 👨‍💼
+- Hireable 👨‍💼
 
 In the near future I'm going to:
 - Study React a lot 🗓
