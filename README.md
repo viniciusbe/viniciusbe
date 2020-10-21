@@ -4,13 +4,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.bernardesds@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:vinicius.bernardesds@gmail.com)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FViniciusbern7)](https://twitter.com/Viniciusbern7)
 
-I'm Vinícius Bernardes...
+I'm Vinícius Bernardes, a beginner developer from Brazil. Since I started coding, in Feb. 2020, I've been enjoyed a lot web development and open source stuff. In my free time I like to play games like CS:GO and R6 🕹, do exercises ⚽ and watch movies/series 🎞.
 
 I'm currently:
 - Learning React 🎨
 - Learning JavaScript 💛
 - Studying [Technology in Systems Analysis and Development on UDESC (2/6)](https://www.udesc.br/cct/tads) 👨‍🎓
+- Attending [RocketSeat](https://rocketseat.com.br/)'s course GoStack 🚀
 - Hireable 👨‍💼
+
 
 ### My Github stats
 
