@@ -12,7 +12,7 @@ I'm currently:
 - Studying [Technology in Systems Analysis and Development on UDESC (2/6)](https://www.udesc.br/cct/tads) 👨‍🎓
 - Hireable 👨‍💼
 
-### A summary of my work
+### My Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbe&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
