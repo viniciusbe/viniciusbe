@@ -7,7 +7,7 @@
 I'm Vinícius Bernardes, a beginner developer from Brazil. Since I started coding, in Feb. 2020, I've been enjoyed a lot web development and open source stuff. In my free time I like to play games like CS:GO and R6 🕹, do exercises ⚽ and watch movies/series 🎞.
 
 I'm currently:
-- Learning React 🎨
+- Learning React 🛠
 - Learning JavaScript 💛
 - Studying [Technology in Systems Analysis and Development on UDESC (2/6)](https://www.udesc.br/cct/tads) 👨‍🎓
 - Attending [RocketSeat](https://rocketseat.com.br/)'s course GoStack 🚀
