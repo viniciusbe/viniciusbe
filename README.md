@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-bernardes-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.bernardesds@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:vinicius.bernardesds@gmail.com)
@@ -14,7 +14,8 @@ I'm currently:
 - Hireable 👨‍💼
 
 
-### My Github stats
+## My Github stats
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbe&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
