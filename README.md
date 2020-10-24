@@ -11,7 +11,6 @@ I'm currently:
 - Learning JavaScript 💛
 - Studying [Technology in Systems Analysis and Development on UDESC (2/6)](https://www.udesc.br/cct/tads) 👨‍🎓
 - Attending [RocketSeat](https://rocketseat.com.br/)'s course GoStack 🚀
-- Hireable 👨‍💼
 
 
 ## My Github stats
