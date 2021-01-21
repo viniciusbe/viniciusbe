@@ -17,7 +17,7 @@ I'm currently:
 
 ## My Github stats
 
-### My activity code in the last 7 days:
+### My activity code during the last 7 days:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusbe)](https://wakatime.com/@viniciusbe)
 
