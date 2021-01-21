@@ -8,7 +8,9 @@ I'm Vinícius Bernardes, a beginner developer from Brazil. Since I started codin
 
 I'm currently:
 - Learning React 🛠
-- Learning JavaScript 💛
+- Learning Node 📤
+- Learning React Native 📱
+- Learning TypeScript ☯
 - Studying [Technology in Systems Analysis and Development on UDESC (2/6)](https://www.udesc.br/cct/tads) 👨‍🎓
 - Attending [RocketSeat](https://rocketseat.com.br/)'s course GoStack 🚀
 
