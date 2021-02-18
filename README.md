@@ -1,7 +1,7 @@
 # Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-bernardes-santos/)
-[![Gmail Badge](https://img.shields.io/badge/-vinicius.bernardesds@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:vinicius.bernardesds@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vinicius@vibesa.online-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:vinicius@vibesa.online)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FViniciusbern7)](https://twitter.com/Viniciusbern7)
 
 I'm Vinícius Bernardes, a beginner developer from Brazil. Since I started coding, in Feb. 2020, I've been enjoyed a lot web development and open source stuff. In my free time I like to play games like CS:GO and R6 🕹, do exercises ⚽ and watch movies/series 🎞.
