@@ -20,7 +20,8 @@ Technologies:
 
 ### My activity code during the last 7 days:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusbe)](https://wakatime.com/@viniciusbe)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbe&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciusbe&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![viniciusbe's github stats](https://github-readme-stats.vercel.app/api?username=viniciusbe&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbe&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![viniciusbe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusbe)](https://wakatime.com/@viniciusbe)
 
 
 
