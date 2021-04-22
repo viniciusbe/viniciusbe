@@ -9,7 +9,6 @@ I'm Vinícius Bernardes, front-end developer from Brazil. Since I started coding
 I'm currently:
 - Learning [Next.js](https://nextjs.org/) 🛠
 - Studying [Technology in Systems Analysis and Development on UDESC](https://www.udesc.br/cct/tads) 👨‍🎓
-- Open to work opportunities
 - Reach out to me [here](https://github.com/viniciusbe/viniciusbe/issues)
 
 Technologies:
